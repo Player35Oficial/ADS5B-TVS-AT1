@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "ads5b-tvs-at1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benones/ADS5B-TVS-AT1.git"
+  },
+  "keywords": [],
+  "author": "Yuri Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benones/ADS5B-TVS-AT1/issues"
+  },
+  "homepage": "https://github.com/benones/ADS5B-TVS-AT1#readme",
+  "description": "AT1 - Estruturação do ambiente de desenvolvimento - Yuri Santana"
+}
